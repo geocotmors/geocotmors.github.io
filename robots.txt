@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://geocotmors.github.io/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/app/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/assets/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/css/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/includes/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/item/sitemap.html.gz
+Sitemap: https://geocotmors.github.io/src/sitemap.html.gz
